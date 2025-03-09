@@ -7,6 +7,7 @@ const Projects = () => {
       className="grid grid-cols-1 lg:grid-cols-2 my-4 gap-4"
     >
       <ProjectPreview
+        link={`https://www.behance.net/gallery/214457435/givingly-website`}
         name="Givenly"
         description="Next-gen social media"
         imageUrl="/assets/Desktop - 6.png"
@@ -14,6 +15,7 @@ const Projects = () => {
         dark
       />
       <ProjectPreview
+        link="https://www.behance.net/gallery/215786129/menu-mate-food-delivery-app"
         name="Menumate"
         description="Lend and borrow dashboard"
         imageUrl="/assets/des 3.png"
